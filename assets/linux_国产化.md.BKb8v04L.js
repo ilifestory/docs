@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.CCJHkvW2.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"linux/国产化.md","filePath":"linux/国产化.md","lastUpdated":1708482714000}'),n={name:"linux/国产化.md"};function r(o,s,c,_,i,d){return a(),t("div")}const m=e(n,[["render",r]]);export{l as __pageData,m as default};

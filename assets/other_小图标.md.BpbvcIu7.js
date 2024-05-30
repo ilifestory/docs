@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.CCJHkvW2.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"other/小图标.md","filePath":"other/小图标.md","lastUpdated":1700022031000}'),r={name:"other/小图标.md"};function o(s,c,n,_,d,p){return a(),t("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};
